@@ -3,3 +3,4 @@ I need some english word
 git is a distribute control system
 git is free software distribute under the GPL
 git has a mutable index called stage
+my stupid boss still prefer svn
