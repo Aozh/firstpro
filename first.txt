@@ -2,3 +2,4 @@ I need some english word
 美好的一天是要努力工作的
 git is a distribute control system
 git is free software distribute under the GPL
+git has a mutable index called stage
